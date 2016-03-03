@@ -1,28 +1,28 @@
 body{
-   background-color: orange;
-   font-family: Arial, Helvetica, sans-serif;
+    background-color: orange;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .top-and-bottom{
-   font-size: 22px;
-   color: white;
-   text-align: center;
-   background-color: #000066;
-   padding: .5px 0px;
+    font-size: 22px;
+    color: white;
+    text-align: center;
+    background-color: #000066;
+    padding: .5px 0px;
 }
 
 img{
-	border: solid;
-	border-width: 2px;
-  border-color: #000066;
-  display: block;
-  margin: 15px auto;
-  width: 70%;
-  height: auto;
+    border: solid;
+    border-width: 2px;
+    border-color: #000066;
+    display: block;
+    margin: 15px auto;
+    width: 70%;
+    height: auto;
 }
 
 #main{
     font-size: 18px;
-  	color: #000066;
+    color: #000066;
     text-align: center;
 }
